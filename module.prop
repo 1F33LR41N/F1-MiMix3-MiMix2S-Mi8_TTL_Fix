@@ -1,0 +1,8 @@
+id=fixttl_mi8
+name=TTL Fix (TTL target module) for Xiaomi Mi8 (stock kernel)
+version=v1.0
+versionCode=1
+author=LazyMind
+description=Adds support for TTL Target module on stock Xiaomi Mi8 kernel and set (fix) TTL to 64.
+minMagisk=17000
+donate=https://yasobe.ru/na/lazymind
