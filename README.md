@@ -1,5 +1,5 @@
 # TTL Target module for F1/MiMix3/MiMix2S/Mi8 devices.
-### (C) LazyMind [forum.smartsworld.ru](https://forum.smartsworld.ru/users/lazymind.759/)
+### (C) LazyMind @ [forum.smartsworld.ru](https://forum.smartsworld.ru/users/lazymind.759/)
 
 ## Description:
 This module adds a kernel module TTL Target for changing packets TTL and sets TTL to 64 by default.
