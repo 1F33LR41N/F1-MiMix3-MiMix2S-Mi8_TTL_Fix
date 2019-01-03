@@ -5,5 +5,5 @@ versionCode=1
 author=LazyMind
 description=Adds support for TTL Target module on stock kernels of All Xiaomi Mi8 variants, Pocophone F1, MIX2S, MIX3 on Android 9 OS and set (fix) TTL to 64. 
 minMagisk=17000
-support=https://github.com/lazymind/F1_MI8_TTL_Fix/issues
+support=https://github.com/lazymind/F1-MiMix3-MiMix2S-Mi8_TTL_Fix/issues
 donate=https://yasobe.ru/na/lazymind
