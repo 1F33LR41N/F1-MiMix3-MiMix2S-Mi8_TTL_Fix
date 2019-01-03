@@ -1,7 +1,11 @@
-# Magisk TTL Target Module for stock Xiaomi Mi8 & Pocophone F1 kernels
+# TTL Target module for F1/MiMix3/MiMix2S/Mi8 devices.
+### (C) LazyMind [forum.smartsworld.ru](https://forum.smartsworld.ru/users/lazymind.759/)
 
-This module adds a kernel module TTL Target for changing packets TTL on stock Xiaomi Mi8/Pocophone F1 kernels and sets TTL to 64 by default.
+## Description:
+This module adds a kernel module TTL Target for changing packets TTL and sets TTL to 64 by default.
 
-Also can be used on MIX2S, MIX3, MI 8, POCOPHONE F1, MI 8UD, MI 8 Explorer Edition at Android 9 OS.
-
-Android 8 needs more testing
+## Requirements:
+ - Pocophone F1, Xiaomi MiMix3, Xiaomi MiMix2S, Xiaomi Mi8 (all SD845 variants)
+ - Android 9 (MIUI 10) OS
+ - Magisk 17+
+ - root
