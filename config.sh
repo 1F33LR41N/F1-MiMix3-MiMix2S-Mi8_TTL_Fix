@@ -6,8 +6,8 @@ LATESTARTSERVICE=true
 print_modname() {
   ui_print "*******************************"
   ui_print "  TTL Fix (TTL Target module)  "
-  ui_print "   for stock Xiaomi Mi8 and    "
-  ui_print "     Pocophone F1 kernels      "
+  ui_print " for stock Xiaomi Mi8, MiMix3, "
+  ui_print " MiMix2S, Pocophone F1 kernels "
   ui_print "          by LazyMind          "
   ui_print "    (forum.smartsworld.ru)     "
   ui_print "*******************************"
