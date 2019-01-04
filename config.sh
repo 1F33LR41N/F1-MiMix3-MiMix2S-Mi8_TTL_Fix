@@ -36,7 +36,7 @@ ursa
 "
 # Device check
 for ITEM in $DEVICES; do
-  if [ $(getprop ro.product.name) == "$(echo $ITEM | cut -f 1 -d '_'))" ] ; then
+  if [ $(getprop ro.product.name) == "$(echo $ITEM | cut -f 1 -d '_')" ] ; then
     DEVFND=1
     break
   fi
